@@ -13,6 +13,14 @@ theme. But don't modify style-main.css file.
 content: url(../images/medical-history.png);
 }
 
+.flaticon-medical-teeth1:before {
+content: url(../images/walker-or-runner-sportive-stick-man.png) !important;	
+}
+
+.flaticon-medical-hospital35:before {
+content: url(../images/femur.png) !important;
+}
+
 .walker-or-runner:before {
 content: url(../images/walker-or-runner-sportive-stick-man.png);
 }
