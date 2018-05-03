@@ -1,0 +1,72 @@
+/*
+@Author: ThemeMascot
+@URL: http://ThemeMascot.com
+
+This is the file where you can add your custom styles to change the look of the
+theme. But don't modify style-main.css file.
+
+*/
+
+/* Your custom css codes start here: */
+
+.medical-history:before {
+content: url(../images/medical-history.png);
+}
+
+.walker-or-runner:before {
+content: url(../images/walker-or-runner-sportive-stick-man.png);
+}
+
+.walker-or-runner-pt:before {
+content: url(../images/walker-or-runner-sportive-stick-man-pt.png);
+}
+
+.stethoscope:before {
+content: url(../images/stethoscope.png);
+}
+
+.femur:before {
+content: url(../images/femur.png);
+}
+
+.footer .subfooter a {
+    color: #fff;
+}
+
+ul.list-fleches li:before {
+	 content: "\f00c";
+  font-family: fontawesome;
+  font-size: 12px;
+  margin-right: 5px;
+	
+}
+
+.section-content ul li:before {
+	 content: "\f00c";
+  font-family: fontawesome;
+  font-size: 12px;
+  margin-right: 5px;
+	
+}
+
+.funfact ul li:before {
+	 content: "\f00c";
+  font-family: fontawesome;
+  font-size: 12px;
+  margin-right: 5px;
+	
+}
+
+.section-content .text-white h4 {
+	color: #fff;
+}
+
+.btn-theme-white {
+  color: #00a3c8;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.item .team-members .team-details h6 {
+	font-size: 12px !important; 
+}
