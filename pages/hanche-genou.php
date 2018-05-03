@@ -44,17 +44,7 @@
 	    <!-- Section: Pricing -->
     <section id="pricing" class="bg-silver-light">
       <div class="container pb-30">
-        <div class="section-title text-center">
-          <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-              <h2 class="text-uppercase mt-0 line-height-1">Pricing</h2>
-              <div class="title-icon">
-                <img class="mb-10" src="images/title-icon.png" alt="">
-              </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem obcaecati!</p>
-            </div>
-          </div>
-        </div>
+        
         <div class="section-content">
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-6 hvr-float-shadow mb-sm-30 wow fadeInLeft animation-delay1">
@@ -63,11 +53,10 @@
                   <i class="flaticon-medical-teeth1"></i>
                 </div>
                 <div class="p-40">
-                  <h3 class="package-type mt-90">Dental Care</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-                  <h1 class="price text-theme-colored mb-10">24<span class="font-48">%</span></h1>
-                  <h4 class="">Discount</h4>
-                  <a class="btn btn-colored btn-theme-colored text-uppercase mt-30" href="#">Get Offer!</a><br>
+                  <h3 class="package-type mt-90">Tout savoir sur la chirurgie de la hanche</h3>
+                  <p>Des réponses à toutes les questions que vous vous posez quant à la chirurgie de la hanche, avant, pendant et après l'opération.</p>
+                  
+                  <a class="btn btn-colored btn-theme-colored text-uppercase mt-30" href="chirurgie-de-la-hanche-avignon---184--page">Chirurgie de la hanche</a><br>
                 </div>
               </div>
             </div>
@@ -77,11 +66,10 @@
                   <i class="flaticon-medical-hospital35"></i>
                 </div>
                 <div class="p-40">
-                  <h3 class="package-type mt-90">Blood Test</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-                  <h1 class="price text-theme-colored mb-10">15<span class="font-48">%</span></h1>
-                  <h4 class="">Discount</h4>
-                  <a class="btn btn-colored btn-theme-colored text-uppercase mt-30" href="#">Get Offer!</a><br>
+                  <h3 class="package-type mt-90">La chirurgie du Genou expliquée</h3>
+                  <p>Pour tout connaitre sur la chirurgie du genou, afin de préparer au mieux une éventuelle intervention.</p>
+                  
+                  <a class="btn btn-colored btn-theme-colored text-uppercase mt-30" href="chirurgie-du-genou-avignon--185--page">Chirurgie du genou</a><br>
                 </div>
               </div>
             </div>
